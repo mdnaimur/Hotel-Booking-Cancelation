@@ -1,4 +1,4 @@
-**Hotel Booking Data set**
+*Hotel Booking Data set*
 
 **<u>Business Problem</u>**
 
@@ -77,7 +77,7 @@ Portugal, can be an effective way to reduce cancellation rates.
 
 **<u>Analysis and Findings</u>**
 
-<img src="media/image1.png" style="width:4.61181in;height:3.73889in" alt="bar graph />
+<img src="media/image1.png" style="width:4.61181in;height:3.73889in" alt="bar graph" />
 
 The bar graph below illustrates the percentage of reservations that have
 been cancelled and those that have not. It is evident that a substantial
